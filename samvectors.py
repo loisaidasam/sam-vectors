@@ -1,5 +1,4 @@
-"""Simple AutoMated vectorization of "sentences" of "words" to create custom
-embeddings based on n-gram co-occurence.
+"""Sentence n-grAM vectorization - sentence embeddings based on n-gram co-occurence
 """
 
 import sys
